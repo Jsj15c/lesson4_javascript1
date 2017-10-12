@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Justyce Jackson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we were given an application that we had to finish by adding in the
+rest of the code for the variables that we added to complete the application.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://jsj15c.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. ( I learned how to use the getElementById() method to put the results of the calculations on the HTML page.)
+2. ( I learned that the function clearForm () clears out the data that was entered in the above expense category slots.)
+3. (I learned that i needed to add var to declare that was not previously declared.)
 
